@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="PatternSolver.HighScore"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PatternSolver"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="Assets/background.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <RadioButton x:Name="HSRadio" Content="High Score" Grid.Column="1" Grid.Row="1" FontSize="40" Tag="2" Checked="RadioButton_Click"
+                 Background="#FF13D38D"  VerticalAlignment="Center" FontFamily="Impact" HorizontalAlignment="Stretch" BorderBrush="Black" BorderThickness="5" Click="RadioButton_Click" ></RadioButton>
+
+        <TextBlock x:Name="ShowScore" VerticalAlignment="Center" FontFamily="Impact" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="3" TextWrapping="Wrap" 
+                   Text="" FontSize="72"/>
+    </Grid>
+</Page>

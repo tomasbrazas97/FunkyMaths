@@ -1,0 +1,1 @@
+C:\Users\zyrxe\source\repos\PatternSolver\PatternSolver\PatternSolver.csproj;arm

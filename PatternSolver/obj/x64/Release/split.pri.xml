@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="26971tomajuli.4901330670318" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://26971tomajuli.4901330670318/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Calculator.xbf" uri="ms-resource://26971tomajuli.4901330670318/Files/Calculator.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HighScore.xbf" uri="ms-resource://26971tomajuli.4901330670318/Files/HighScore.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://26971tomajuli.4901330670318/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PatternSolver.xr.xml" uri="ms-resource://26971tomajuli.4901330670318/Files/PatternSolver.xr.xml">
+				<Candidate type="Path">
+					<Value>PatternSolver.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Practice.xbf" uri="ms-resource://26971tomajuli.4901330670318/Files/Practice.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SelectPage.xbf" uri="ms-resource://26971tomajuli.4901330670318/Files/SelectPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="background.jpg" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/background.jpg">
+					<Candidate type="Path">
+						<Value>Assets\background.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="backgroundMusic.mp3" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/backgroundMusic.mp3">
+					<Candidate type="Path">
+						<Value>Assets\backgroundMusic.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FunkyMaths44.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/FunkyMaths44.png">
+					<Candidate type="Path">
+						<Value>Assets\FunkyMaths44.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FunkyMathsLock.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/FunkyMathsLock.png">
+					<Candidate type="Path">
+						<Value>Assets\FunkyMathsLock.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/SplashScreen.png">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/Square150x150Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square150x150Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/Square44x44Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Square44x44Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="thinking.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/thinking.png">
+					<Candidate type="Path">
+						<Value>Assets\thinking.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://26971tomajuli.4901330670318/Files/Assets/Wide310x150Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Wide310x150Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://26971tomajuli.4901330670318/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://26971tomajuli.4901330670318/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\zyrxe\source\repos\PatternSolver\PatternSolver\bin\x86\Release\Upload\PatternSolver_1.1.0.0_x86.appx
+SymbolPackage=C:\Users\zyrxe\source\repos\PatternSolver\PatternSolver\bin\x86\Release\Upload\PatternSolver_1.1.0.0\PatternSolver_1.1.0.0_x86.appxsym
